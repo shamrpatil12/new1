@@ -1,5 +1,4 @@
-please do not disturb
-class is full
+git diff (only) compairs:
+working dir---compare---staged data
 
-staged data --compare--last commit
 
