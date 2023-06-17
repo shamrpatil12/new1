@@ -1,0 +1,6 @@
+please do not disturb
+ok
+class is full
+
+staged data --compare--last commit
+
