@@ -1,4 +1,4 @@
-git diff (only) compairs:
-working dir---compare---staged data
+git diff --staged compairs:
+staged area ---compare---last commit
 
 
