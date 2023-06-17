@@ -1,4 +1,4 @@
-git diff --staged  command compairs:
-staged area ---compare---last commit
+git diff command compairs:
+staged area ---compare---last committ
 
 
