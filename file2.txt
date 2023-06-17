@@ -1,4 +1,0 @@
-git diff command compairs
-
-this is our channel
-
