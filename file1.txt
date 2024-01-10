@@ -2,4 +2,6 @@ git diff command:
 
 this is our channel
 
+checking git pull-push cycle
+
 

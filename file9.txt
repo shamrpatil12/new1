@@ -1,0 +1,10 @@
+checking git pull-push cycle
+git add
+git commit -m''
+git push origin developer1
+
+github creates new pull request
+github merge branch develper1 with master
+
+
+git pull origin master
